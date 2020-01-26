@@ -1,0 +1,32 @@
+C:\Users\dell\source\repos\my data base\my data base\bin\Debug\my data base.exe.config
+C:\Users\dell\source\repos\my data base\my data base\bin\Debug\my data base.exe
+C:\Users\dell\source\repos\my data base\my data base\bin\Debug\my data base.pdb
+C:\Users\dell\source\repos\my data base\my data base\bin\Debug\MySql.Web.dll
+C:\Users\dell\source\repos\my data base\my data base\bin\Debug\MySql.Data.dll
+C:\Users\dell\source\repos\my data base\my data base\bin\Debug\Google.Protobuf.dll
+C:\Users\dell\source\repos\my data base\my data base\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dell\source\repos\my data base\my data base\bin\Debug\Renci.SshNet.dll
+C:\Users\dell\source\repos\my data base\my data base\bin\Debug\MySql.Web.xml
+C:\Users\dell\source\repos\my data base\my data base\bin\Debug\MySql.Data.xml
+C:\Users\dell\source\repos\my data base\my data base\obj\Debug\my data base.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\my data base\my data base\obj\Debug\my data base.csproj.CopyComplete
+C:\Users\dell\source\repos\my data base\my data base\obj\Debug\my data base.exe
+C:\Users\dell\source\repos\my data base\my data base\obj\Debug\my data base.pdb
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\my data base.exe.config
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\my data base.exe
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\my data base.pdb
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\MySql.Data.dll
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\MySql.Web.dll
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\Google.Protobuf.dll
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\Renci.SshNet.dll
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\MySql.Data.xml
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\MySql.Web.xml
+C:\Users\AMDMT\source\my data base\my data base\obj\Debug\my data base.csprojAssemblyReference.cache
+C:\Users\AMDMT\source\my data base\my data base\obj\Debug\my data base.csproj.CoreCompileInputs.cache
+C:\Users\AMDMT\source\my data base\my data base\obj\Debug\my data base.csproj.CopyComplete
+C:\Users\AMDMT\source\my data base\my data base\obj\Debug\my data base.exe
+C:\Users\AMDMT\source\my data base\my data base\obj\Debug\my data base.pdb
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\Metier\gestion_des_compte.mdf
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\Metier\gestion_des_compte_log.ldf
+C:\Users\AMDMT\source\my data base\my data base\bin\Debug\Ubiety.Dns.Core.dll
